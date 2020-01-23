@@ -1,6 +1,4 @@
 package emailapp;
-//        System.out.println("Your email is: " + email);
-
 import java.util.Scanner;
 
 public class Email {
